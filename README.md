@@ -11,7 +11,7 @@ This is a Malaria Detection model that helps us to easily detect an infected per
 # Setup and Configuration
 - [ ] Google Drive
 
-1. Google Drive Link - 
+1. Google Drive Link - https://drive.google.com/drive/folders/1V6r7u5VEVShBYFK-CfaJXg99IM55yYW7?usp=sharing
 - Note : (This GitHub Repository cannot hold whole of the Model because of the large size, even after compressing it cannot be pushed. This drive link contains all the material required, download it to start setting up of the model.
 2. Ensure that Python and Pip are installed in the system. You will need to install Tensorflow, Numpy and Cv2 to run the model.
 3. Create a virtual environment with help of [Python Virtual Environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
